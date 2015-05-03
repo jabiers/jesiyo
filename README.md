@@ -1,6 +1,7 @@
 #dokku 세팅 완료
 
 [http://dev.jesiyo.com](http://dev.jesiyo.com) 으로 접속시 현재 master 브런치의 내용을 볼 수 있음
+
 문제점 : 아마 dokku 의 레퍼지토리랑 github 레퍼지토리랑은 다른 해쉬값 때문에 여러 장소에서 푸시 불가능 해결책 알아보는 중
 
 #예상 개발 환경
