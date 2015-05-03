@@ -1,3 +1,18 @@
+#dokku 세팅 완료
+
+[http://dev.jesiyo.com](http://dev.jesiyo.com) 으로 접속시 현재 master 브런치의 내용을 볼 수 있음
+
+문제점 : 아마 dokku 의 레퍼지토리랑 github 레퍼지토리랑은 다른 해쉬값 때문에 여러 장소에서 푸시 불가능 해결책 알아보는 중
+
+#예상 개발 환경
+로컬 개발 후 github 에 푸시
+github webhook 을 통한 자동 빌드 구축 예정
+
+
+
+
+
+
 [![Build Status](https://travis-ci.org/linnovate/mean.svg?branch=master)](https://travis-ci.org/linnovate/mean)
 [![Dependencies Status](https://david-dm.org/linnovate/mean.svg)](https://david-dm.org/linnovate/mean)
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/linnovate/mean?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
