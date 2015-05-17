@@ -1,4 +1,4 @@
-#dokku 세팅 완료
+﻿#dokku 세팅 완료
 
 [http://dev.jesiyo.com](http://dev.jesiyo.com) 으로 접속시 현재 master 브런치의 내용을 볼 수 있음
 
@@ -7,6 +7,7 @@
 #예상 개발 환경
 로컬 개발 후 github 에 푸시
 github webhook 을 통한 자동 빌드 구축 예정
+
 
 
 
